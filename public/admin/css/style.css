@@ -1,0 +1,34 @@
+.required{
+	color: red;
+}
+#please_fill{
+	color: red;
+}
+#required_name{
+	color: red;
+}
+#required_image{
+	color: red;
+}
+#required_price{
+	color: red;
+}
+#required_description{
+	color: red;
+}
+#required_meta_title{
+	color: red;
+}
+#required_meta_desc{
+	color: red;
+}
+#required_title{
+	color: red;
+}
+.flex_check{
+  display: flex;
+}
+.check_css{
+  width: 35px ! important;
+  height: 21px! important;
+}
